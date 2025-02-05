@@ -18,3 +18,13 @@ my_list = [
 
 # Printing the list
 print(my_list)
+
+'''
+    List comprehension to create a list of squares
+    This code creates a list of squares of numbers from 1 to 10 using list comprehension. The range(1, 11) generates numbers from 1 to 10, and x**2 computes the square of each number.
+'''
+squares = [x**2 for x in range(1, 11)]
+
+# Printing the list of squares
+print(squares)
+
