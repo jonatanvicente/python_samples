@@ -26,6 +26,9 @@ python data_types/lists_plus.py
 - Python 3.10 or higher (for `match_case.py`)
 - No additional libraries are required for these scripts.
 
+### Additional Resources
+For more advanced examples, the book "Python Crash Course, 3rd Edition" by Eric Matthes is highly recommended.
+See https://nostarch.com/python-crash-course-3rd-edition for more information.
 
 
 
