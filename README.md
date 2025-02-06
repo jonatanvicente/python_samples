@@ -10,11 +10,35 @@ This project contains various Python scripts demonstrating different functionali
 ##### data_types
 This folder demonstrates the use of Python lists containing elements of various data types, including integers, floats, strings, booleans, lists, tuples, sets, dictionaries, and NoneType. It also includes an example of list comprehension to create a list of squares of numbers from 1 to 10.
 
+##### directories
+Sample who shows the contents of any directory
+
 ##### flow_control
 This folder contains Python scripts demonstrating various flow control structures such as conditionals, loops, and pattern matching using the `match`/`case` statement. These examples illustrate how to control the flow of execution in a Python program based on different conditions and patterns.
 
+##### functions
+Uses of functions in Python
+
+##### override
+How it's working in Python the overriding of methods
+
+#### polymorphism
+Polymorphism in Python
+
+
 ##### samples
-This file contains a simple "Guess the Number" game. The program generates a random number between 1 and 100, and the user has 8 attempts to guess the number. The program provides feedback on whether the guessed number is higher or lower than the secret number and congratulates the user if they guess correctly within the allowed attempts.
+* **"Guess the Number"** game. The program generates a random number between 1 and 100, and the user has 8 attempts to guess the number. The program provides feedback on whether the guessed number is higher or lower than the secret number and congratulates the user if they guess correctly within the allowed attempts.
+* **"Hangman game"**. The program selects a random word from a predefined list, and the user has to guess the word by entering one letter at a time. The program displays the word with underscores for missing letters and reveals the correct letters as the user guesses them. The user has a limited number of attempts to guess the word correctly.
+* **numPy**. Provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays.
+* **Scipy**. Builds on NumPy and provides additional functionality for scientific and technical computing
+* **Pandas**. Offers data structures and data analysis tools for handling structured data.
+* **matplotlib**. A plotting library for creating static, animated, and interactive visualizations.
+* **Pillow**. A Python Imaging Library (PIL) fork that adds image processing capabilities.
+
+##### testing
+Several examples of how to test Python code using the `unittest` module.
+
+
 
 ### How to Run
 To run any of the scripts, navigate to the directory containing the file and execute it using Python. For example:
