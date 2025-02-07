@@ -26,6 +26,12 @@ This folder contains Python scripts demonstrating various flow control structure
 ##### functions
 Uses of functions in Python
 
+##### generator
+Uses of generators sample 
+
+##### math
+Several uses of Math module
+
 ##### override
 How it's working in Python the overriding of methods
 
@@ -41,6 +47,9 @@ Polymorphism in Python
 * **Pandas**. Offers data structures and data analysis tools for handling structured data.
 * **matplotlib**. A plotting library for creating static, animated, and interactive visualizations.
 * **Pillow**. A Python Imaging Library (PIL) fork that adds image processing capabilities.
+
+##### shutil_os
+Several samples of how to use shutil and os modules 
 
 ##### testing
 Several examples of how to test Python code using the `unittest` module.
