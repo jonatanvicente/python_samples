@@ -7,11 +7,15 @@ This project contains various Python scripts demonstrating different functionali
 
 ### Folders and Descriptions
 
+##### collections
+Several samples of how to use collections in Python
+
 ##### data_types
 This folder demonstrates the use of Python lists containing elements of various data types, including integers, floats, strings, booleans, lists, tuples, sets, dictionaries, and NoneType. It also includes an example of list comprehension to create a list of squares of numbers from 1 to 10.
 
 ##### DI (Dependency Injection)
-This folder contains a couple of examples that show how to use dependencies injection in Python with decorators
+This folder contains a couple of examples that show how to use dependencies injection in Python with decorators.
+    - dependency_injection_plus.py shows callback pattern
 
 ##### directories
 Sample who shows the contents of any directory

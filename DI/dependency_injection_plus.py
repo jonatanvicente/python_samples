@@ -23,7 +23,7 @@ def inject_services(*service_classes):
 @inject_services(DatabaseService, EmailService)
 class MyApplication:
     def run(self):
-        db_result = self.databaseservice.connect()
+        db_result = self.databaseservice.connect() # lower in the decorator
         email_result = self.emailservice.send_email("user@example.com", "Hello, World!")
         print(db_result)
         print(email_result)
