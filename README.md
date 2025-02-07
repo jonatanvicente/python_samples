@@ -54,6 +54,8 @@ Several samples of how to use shutil and os modules
 ##### testing
 Several examples of how to test Python code using the `unittest` module.
 
+##### zip
+Uses of zip function in Python
 
 
 ### How to Run
