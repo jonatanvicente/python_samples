@@ -32,6 +32,9 @@ Uses of generators sample
 ##### math
 Several uses of Math module
 
+##### multi-thread
+This folder contains couple of examples showing how to use multi-threading and manage exceptions
+
 ##### override
 How it's working in Python the overriding of methods
 
