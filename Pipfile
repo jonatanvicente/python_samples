@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 pytest = "*"
+beautifulsoup4 = "*"
+requests = "*"
+tk = "*"
 
 [dev-packages]
 
