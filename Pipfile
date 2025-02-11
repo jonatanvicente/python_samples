@@ -8,6 +8,7 @@ pytest = "*"
 beautifulsoup4 = "*"
 requests = "*"
 tk = "*"
+flask = "*"
 
 [dev-packages]
 

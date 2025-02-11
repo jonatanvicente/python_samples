@@ -50,6 +50,7 @@ Polymorphism in Python
 * **Pandas**. Offers data structures and data analysis tools for handling structured data.
 * **matplotlib**. A plotting library for creating static, animated, and interactive visualizations.
 * **Pillow**. A Python Imaging Library (PIL) fork that adds image processing capabilities.
+* **Scraping**. Demonstrates how to scrape data from a website using the `requests` and `BeautifulSoup` libraries.
 
 ##### shutil_os
 Several samples of how to use shutil and os modules 
