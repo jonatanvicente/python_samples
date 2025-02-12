@@ -32,6 +32,10 @@ Uses of generators sample
 ##### math
 Several uses of Math module
 
+#### matplotlib
+Several samples of how to use matplotlib. 
+NOTE: This samples are taken of official site, see more at https://matplotlib.org/
+
 ##### multi-thread
 This folder contains couple of examples showing how to use multi-threading and manage exceptions
 
