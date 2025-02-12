@@ -38,6 +38,9 @@ This folder contains couple of examples showing how to use multi-threading and m
 ##### override
 How it's working in Python the overriding of methods
 
+##### pandas
+A couple of samples using Pandas to manipulate data (ML)
+
 #### polymorphism
 Polymorphism in Python
 
