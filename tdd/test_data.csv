@@ -1,0 +1,4 @@
+date,email,status,source
+2020-11-30,alpha@pp.com,active,facebook
+2020-12-01,beta@pp.com,inactive,twitter
+2019-05-05,gamma@pp.com,reactivated,linkedin

@@ -65,9 +65,11 @@ Several samples of how to use shutil and os modules
 ##### testing
 Several examples of how to test Python code using the `unittest` module.
 
+##### tdd
+Simple example of how to use TDD in Python
+
 ##### zip
 Uses of zip function in Python
-
 
 ### How to Run
 To run any of the scripts, navigate to the directory containing the file and execute it using Python. For example:
@@ -82,6 +84,9 @@ python data_types/lists_plus.py
 ### Additional Resources
 For more advanced examples, the book "Python Crash Course, 3rd Edition" by Eric Matthes is highly recommended.
 See https://nostarch.com/python-crash-course-3rd-edition for more information.
+
+In addition, the book "Powerful Python" by Aaron Maxwell is a great resource for learning advanced Python concepts.
+See https://powerfulpython.com/ for more information.
 
 
 
